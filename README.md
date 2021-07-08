@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### I'm a full-stack data scientist interested in all things machine learning
 
-- ⚙️ I use daily: `python`, `scikit-learn`, `pytorch`, `pandas`, `plotly`
+- ⚙️ I frequently use: `python`, `scikit-learn`, `pytorch`, `pandas`, `plotly`
 - My :toolbox:: `Java`, `JavaScript`, `PHP`, `Go`, `Docker`, `GitHub Actions`, `MySQL`, `PostgreSQL`, `SQLite`
 - 🌱 Learning all about **(machine) learning**, **yoga**, **self-development & psychology**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/denisergashbaev/) 
