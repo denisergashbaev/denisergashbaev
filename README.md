@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 #### What I've done before
 
  - Framed the problem of pattern coloring as a RL model and solved some instances with REINFORCE and DQN: https://github.com/denisergashbaev/rl_playground
- - Dockerized code of [eBayKleinanzeigen](https://github.com/denisergashbaev/ebayKleinanzeigen/pull/1/files) for automating ads and upgraded
+ - Dockerized code of [eBayKleinanzeigen](https://github.com/denisergashbaev/ebayKleinanzeigen/pull/1/files) for automating ads
  - 
 
