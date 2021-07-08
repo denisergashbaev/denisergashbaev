@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there 👋
+
+#### I'm a full-stack data scientist interested in all things machine learning
+
+- ⚙️ I use daily: `python`, `scikit-learn`, `pytorch`, `pandas`, `plotly`
+- :toolbox:	My toolbox: `Java`, `JavaScript`, `PHP`, `Go`, 
+- 🌱 Learning all about **machine learning**, **yoga**, **self-development**
+- 📫 Reach me: [https://www.linkedin.com/in/denisergashbaev/](https://www.linkedin.com/in/denisergashbaev/) 
