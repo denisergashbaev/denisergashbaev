@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 #### I'm a full-stack data scientist interested in all things machine learning
 
 - ⚙️ I use daily: `python`, `scikit-learn`, `pytorch`, `pandas`, `plotly`
-- :toolbox:	My toolbox: `Java`, `JavaScript`, `PHP`, `Go`, 
+- My :toolbox:: `Java`, `JavaScript`, `PHP`, `Go`, `Docker`, `GitHub Actions`, `MySQL`, `PostgreSQL`, `SQLite`
 - 🌱 Learning all about **machine learning**, **yoga**, **self-development**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/denisergashbaev/) 
+
+#### What I've done before
+
+ - Framed the problem of pattern coloring as a RL model and solved some instances with REINFORCE and DQN: https://github.com/denisergashbaev/rl_playground
+ - Dockerized code of [eBayKleinanzeigen](https://github.com/denisergashbaev/ebayKleinanzeigen/pull/1/files) for automating ads and upgraded
+ - 
+
