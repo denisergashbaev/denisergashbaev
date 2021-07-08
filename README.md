@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 - ⚙️ I use daily: `python`, `scikit-learn`, `pytorch`, `pandas`, `plotly`
 - My :toolbox:: `Java`, `JavaScript`, `PHP`, `Go`, `Docker`, `GitHub Actions`, `MySQL`, `PostgreSQL`, `SQLite`
-- 🌱 Learning all about **machine learning**, **yoga**, **self-development**
+- 🌱 Learning all about **(machine) learning**, **yoga**, **self-development & psychology**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/denisergashbaev/) 
 
-#### What I've done before
+#### Some of the past public projects
 
- - Framed the problem of pattern coloring as a RL model and solved some instances with REINFORCE and DQN: https://github.com/denisergashbaev/rl_playground
+ - Framed the the task pattern coloring as a RL problem and solved some instances with REINFORCE and DQN: https://github.com/denisergashbaev/rl_playground
  - Dockerized code of [eBayKleinanzeigen](https://github.com/denisergashbaev/ebayKleinanzeigen/pull/1/files) for automating ads
- - 
+ - Created a rather successfull (at the time, ~30-50 users a day) Telegram bot that reduced the size of the forwarded videos to save internet traffic
 
